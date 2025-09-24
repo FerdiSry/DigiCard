@@ -61,7 +61,7 @@
  Git
  
  2. Kloning Repository
- git clone [https://github.com/FerdiSry/DigiCard.AI.git](https://github.com/FerdiSry/DigiCard.AI.git)
+ git clone [https://github.com/FerdiSry/DigiCard.AI.git](https://github.com/FerdiSry/DigiCard.git)
  cd DigiCard.AI
  
  3. Instalasi Dependensi
@@ -89,6 +89,7 @@
  Kembali ke direktori utama
  cd ..
  
- Jalankan front-end dan back-end secara bersamaan
+ Jalankan back-end dan front-end secara bersamaan
+ node api/index.js
  npm run dev
  </div>

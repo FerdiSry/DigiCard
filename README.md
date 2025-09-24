@@ -13,14 +13,7 @@
      <img src="https://skillicons.dev/icons?i=nodejs,express,vercel,react,bootstrap" />
    </a>
  </p>
-</div>
-
-
- <img width="1785" height="809" alt="image" src="https://github.com/user-attachments/assets/13fd6803-9a11-400d-bb5b-58b1eb022425" /><div align="center">
- <img width="1781" height="406" alt="image" src="https://github.com/user-attachments/assets/519d9fac-47a2-4825-ad02-29e5391bceac" /><div align="center">
- 
- (Gambar di atas menunjukkan alur kerja: unggah gambar, data terisi otomatis oleh AI, dan kartu berhasil disimpan.)
- 
+</div> 
 
  <div align="left"> 
  ✨ Fitur Utama

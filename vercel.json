@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "builds": [
+    {
+      "src": "api/api.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/api.js"
+    }
+  ]
+}

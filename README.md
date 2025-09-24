@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
  <!-- <img src="https://www.google.com/search?q=https://placehold.co/150x150/7c3aed/ffffff%3Ftext%3DDAI" alt="Logo DigiCard AI" style="border-radius: 50%; width: 120px;"/> -->
  <h1 align="center">DigiCard AI</h1>
@@ -90,3 +91,6 @@
  npm run dev
  
  </div>
+=======
+
+>>>>>>> 756123574d00dd6bd52c0b820eb125935e5ac7f7
